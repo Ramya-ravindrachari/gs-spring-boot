@@ -1,13 +1,13 @@
 name: CI
 
 # Run thhis workflow every time a commit is pushed to main or a pull request is opened against master.
-on:
-  push:
-    branches:
-      - master
-  pull_request:
-    branches: 
-      - master
+#on:
+  #push:
+    #branches:
+      #- master
+ # pull_request:
+    #branches: 
+     # - master
 
 #jobs:
     #build:
